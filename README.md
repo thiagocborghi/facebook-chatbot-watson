@@ -1,2 +1,2 @@
-# facebook-chatbot-watson
-Facebook Chatbot with IBM Watson
+# nodejs-chatbot-watson
+NodeJS Chatbot with IBM Watson
